@@ -1,0 +1,22 @@
+🔥 Os comandos Git mais importantes
+
+Comando	Para que serve
+
+git clone	Baixar um projeto do GitHub para o computador
+git init	Criar um repositório Git
+git status	Ver o que foi alterado
+git add	        Preparar arquivos para o commit
+git commit	Salvar uma versão das alterações
+git push	Enviar alterações para o GitHub
+git pull	Baixar alterações do GitHub
+git fetch	Consultar alterações remotas sem aplicá-las
+git branch	Criar/listar branches
+git checkout	Trocar de branch (comum, embora git switch seja a alternativa moderna)
+git switch	Trocar/criar branches
+git merge	Juntar alterações de branches
+git log	        Ver histórico de commits
+git diff	Ver exatamente o que mudou
+git remote	Ver/configurar o repositório remoto
+git reset	Desfazer alterações/commits, dependendo do uso
+git revert	Desfazer um commit criando outro commit
+git stash	Guardar alterações temporariamente
